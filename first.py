@@ -43,3 +43,16 @@ f0 = -4
 fi = -5
 
 '''print(f"my{f} name{s} is{t} aayush{f0} pokharel{fi}")'''
+
+
+#len function
+'''name = "my name is aayush"
+print(len(name))
+
+
+
+def cale_weight(m,g=9.8):
+    print(f"your weight is {m*g}n")
+    
+mass = int(input("please enter your mass"))
+print(cale_weight(mass))'''
